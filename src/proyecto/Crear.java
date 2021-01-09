@@ -5,10 +5,18 @@
  */
 package proyecto;
 
+import java.util.logging.Logger;
+
 /**
  *
  * @author angel
  */
 public class Crear {
     
+    public Crear(){
+    
+    }
+    public Crear(String nom, String codigo){
+        
+    } 
 }
